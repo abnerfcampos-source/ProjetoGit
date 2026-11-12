@@ -1,0 +1,6 @@
+#comentario
+.env
+senhas.txt
+node_mudules/
+*.log
+DS_Store
